@@ -19,7 +19,7 @@ Räume können über die `Raum-RPC-Funktionen <https://ref.homegear.eu/rpc.html#
 Gewerke
 *******
 
-Gewerke wie Licht, Heizung oder Rolläden können über über Kategorien realisiert werden (siehe die `Kategorie-RPC-Funktionen <https://ref.homegear.eu/rpc.html#affixSection16>`_). Wie bei den Räumen lassen sich aktuell nur Geräte zu Kategorien zuordnen. Dies wird dahingehend geändert, dass sich ebenso Variablen Kategorien zuordnen lassen.
+Gewerke wie Licht, Heizung oder Rolläden können über Kategorien realisiert werden (siehe die `Kategorie-RPC-Funktionen <https://ref.homegear.eu/rpc.html#affixSection16>`_). Wie bei den Räumen lassen sich aktuell nur Geräte zu Kategorien zuordnen. Dies wird dahingehend geändert, dass sich ebenso Variablen Kategorien zuordnen lassen.
 
 
 Visualisierungs-Elemente
@@ -33,9 +33,9 @@ Folgende Informationen werden von der Visualisierung benötigt, um Visualisierun
 * Position des Elementes relativ zu anderen Elementen
 * Art des Elementes
 * Eingangs- und Ausgangsvariable des Elementes
-* U. U. Wertebereich der visualisierten Variablen
+* Unter Umständen Wertebereich der visualisierten Variablen
 * Drei Beschreibungstexte - über, auf und unter einem inneren Element
-* U. U. Einheit (z. B. °C)
+* Maßeinheit (z. B. °C)
   
 Für zusammengesetzte Elemente werden zusätzlich noch folgende Informationen benötigt:
 
