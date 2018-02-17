@@ -31,7 +31,7 @@ Folgende Informationen werden von der Visualisierung benötigt, um Visualisierun
 
 * Raum oder Gewerk des Elementes
 * Position des Elementes relativ zu anderen Elementen
-* Art des Elementes
+* Art des Elementes (Knopf, Schieberegler, Temperaturauswahl, ...)
 * Eingangs- und Ausgangsvariable des Elementes
 * Unter Umständen Wertebereich der visualisierten Variablen
 * Drei Beschreibungstexte - über, auf und unter einem inneren Element
