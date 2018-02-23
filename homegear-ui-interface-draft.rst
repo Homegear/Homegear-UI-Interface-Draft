@@ -36,6 +36,8 @@ Folgende Informationen werden von der Visualisierung benötigt, um Visualisierun
 * Unter Umständen Wertebereich der visualisierten Variablen
 * Drei Beschreibungstexte - über, auf und unter einem inneren Element
 * Maßeinheit (z. B. °C)
+* Icon
+* Metadaten
   
 Für zusammengesetzte Elemente werden zusätzlich noch folgende Informationen benötigt:
 
@@ -43,5 +45,7 @@ Für zusammengesetzte Elemente werden zusätzlich noch folgende Informationen be
 * Referenz auf die verwendeten einfachen Elemente
     * Diese liefern als relative Position die Position innerhalb des zusammengesetzten Elementes
 * Position des zusammengesetzten Elementes relativ zu anderen Elementen
+* Icon
+* Metadaten
   
 Die oben genannten Informationen sollen in einer zusätzlichen Visualisierungs XML-Datei in der Homegearinstallation gespeichert sein. Abgerufen werden sollen die Informationen pro Raum oder pro Gewerk. Die dafür erforderlichen RPC-Funktionen sind noch zu implementieren.
