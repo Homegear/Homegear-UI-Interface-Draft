@@ -60,6 +60,7 @@ Folgende Informationen werden von der Visualisierung benötigt, um Visualisierun
 * Art des Elementes (Knopf, Schieberegler, Temperaturauswahl, ...) (eindeutig)
 * Eingangs- und Ausgangsvariable des Elementes
 * Unter Umständen Wertebereich der visualisierten Variablen
+* Ggf. Statustexte wie: (offen, geschlossen), (entriegelt, verriegelt), (...)
 * Drei Beschreibungstexte - über, auf und unter einem inneren Element (mehrsprachig)
 * Maßeinheit (z. B. °C)
 * Berechtigung
